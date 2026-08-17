@@ -1,0 +1,6 @@
+{
+  "name": "Game Master Prep Studio",
+  "description": "Comprehensive preparation and live session tool for TTRPG Game Masters featuring node-based mystery design, Three Clue Rule graph analysis, Lazy DM 8-step prep checklists, player motivation trackers, and Google Drive cloud storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
